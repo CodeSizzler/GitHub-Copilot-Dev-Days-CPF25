@@ -10,7 +10,7 @@ Customize it with your local event details, such as date, time, location, and ag
 * 1️⃣ Use the following event name format:
   `GitHub Copilot Dev Days | [City Name]`
   Example: `GitHub Copilot Dev Days | São Paulo`
-* 2️⃣ GitHub Copilot Dev Days are open to all developers. But, if you plan to cover a topic that has additional prerequisites or experience suggestions, please state this in your registration page.
+* 2️⃣ GitHub Copilot Dev Days are open to all developers. But if you plan to cover a topic that has additional prerequisites or experience suggestions, please state this in your registration page.
 * 3️⃣ Clearly state whether participants need to **bring their own laptops** or if computers will be provided by the venue.
 
 ---
