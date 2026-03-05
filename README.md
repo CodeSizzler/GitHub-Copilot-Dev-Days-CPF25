@@ -1,4 +1,4 @@
-![Dark banner with the text ‘GitHub Copilot Dev Days’ beside a green 3D block featuring the GitHub logo.](assets/github-copilot-dev-days.png)
+![Dark banner with the text ‘GitHub Copilot Dev Days’ beside a green 3D block featuring the GitHub logo.](assets/github-copilot-dev-days-CPF.png)
 
 # GitHub Copilot Dev Days 2026 – Community Event Kit
 
